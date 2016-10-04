@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Working Title/Scene/WorkingTitle.unity
+  isLoaded: 1
+  isActive: 1
