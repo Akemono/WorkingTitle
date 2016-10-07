@@ -59,6 +59,7 @@
      <Compile Include="Assets\Externe pakketen\kode80\Clouds\Scripts\kode80Clouds.cs" />
      <Compile Include="Assets\Externe pakketen\kode80\Effects\Scripts\FilmicTonemapping.cs" />
      <Compile Include="Assets\Externe pakketen\kode80\UnityTools\EditorTools\Scripts\RecordVideo.cs" />
+     <Compile Include="Assets\RaycastTest.cs" />
      <None Include="Assets\Externe pakketen\kode80\Clouds\AssetVersion.xml" />
      <None Include="Assets\Externe pakketen\kode80\Clouds\Resources\kode80Clouds\CloudCombiner.shader" />
      <None Include="Assets\Externe pakketen\kode80\UnityTools\ChangeLog.txt" />
